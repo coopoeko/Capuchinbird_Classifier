@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pth
+
+# Folders
+data
+.ipynb_*
